@@ -1,8 +1,12 @@
 # LR-Helpers
-a few tiny CMDlets to Lightroom life easier 
+a few tiny CMDlets to make life easier in Adobe Lightroom
+
+## Requirements
+EXIFtool: http://www.sno.phy.queensu.ca/~phil/exiftool/
+OpenInWhatever: http://www.robcole.com/Rob/ProductsAndServices/OpenInWhateverLrPlugin
 
 ## How to use
-These CMDlets can be used from within Adobe Lightroom using the great Lightroom plugin OpenInWhatever by Rob Cole (http://www.robcole.com/Rob/ProductsAndServices/OpenInWhateverLrPlugin). You can also drag and drop several files onto the CMDlets if you want to use them outside of Lightroom.
+These CMDlets can be used from within Adobe Lightroom using the great Lightroom plugin OpenInWhatever by Rob Cole. You can also drag and drop several files onto the CMDlets if you want to use them outside of Lightroom.
 
 Please note that these CMDlets are totally customized to fit MY needs. To make it fit YOUR needs simply modify it to your liking.
 
