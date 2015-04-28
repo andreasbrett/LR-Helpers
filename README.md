@@ -3,6 +3,7 @@ a few tiny CMDlets to make life easier in Adobe Lightroom
 
 ## Requirements
 EXIFtool: http://www.sno.phy.queensu.ca/~phil/exiftool/
+
 OpenInWhatever: http://www.robcole.com/Rob/ProductsAndServices/OpenInWhateverLrPlugin
 
 ## How to use
